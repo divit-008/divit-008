@@ -41,7 +41,7 @@ I'm driven by building clean UIs, understanding how systems work behind the scen
 
 ### 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/divit-mishra/)
+- [LinkedIn](https://www.linkedin.com/in/divit008/)
 - [LeetCode](https://leetcode.com/divit-008/)
 - [Twitter](https://x.com/Divit_og) 
 
