@@ -21,14 +21,6 @@ I'm driven by building clean UIs, understanding how systems work behind the scen
 
 ---
 
-### 📊 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/divit-008?theme=light&font=Roboto&ext=contest)](https://leetcode.com/divit-008)
-
-> Solving problems one line at a time.
-
----
-
 ### 💡 About Me
 
 - 🎓 I'm a sophomore majoring in Computer Science at SDSU (Class of 2028)  
